@@ -1,0 +1,1 @@
+# banco_1906_operacoes.sql
